@@ -1,7 +1,7 @@
 id = "alabaster-twilight-theme"
 name = "Alabaster Twilight"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["ChuseCubr <chasevillarroel@gmail.com>"]
-description = "Alabaster Twilight"
-repository = "https://github.com/ChuseCubr/alabaster-twighlight"
+description = "A softly accented variant of Alabaster"
+repository = "https://github.com/ChuseCubr/alabaster-twighlight-zed-theme"
